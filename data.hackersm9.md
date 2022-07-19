@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hackersm9
 - 👀 I’m interested in Hacking, Coding, Developing, & Programming.
-- 🌱 I’m currently learning Python, JavaScript, C++
+- 🌱 I’m currently learning Python, C, C++
 - 🎂 Birth Place: MH 09
 - 💼 Work Place: MH 04
 - 📫 How to reach me 400610 Thane (W), Maharashtra, India.
