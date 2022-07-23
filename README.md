@@ -1,8 +1,10 @@
 # Hi, HackerSM9 Here ..!
-<a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
+<p style=align: center;"><a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
 alt="GitHub Account HackerSM9"></a>
+<a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/Twitter-HackerSM9-black.svg?style=social&logo=twitter"
+alt="GitHub Account HackerSM9"></a></p>
 - 👋 Hi, I’m @Hackersm9
-- 👀 I’m interested in Hacking, Coding, Developing, & Programming.
+- 👀 I’m interested in Coding, Developing, & Programming.
 - 🌱 I’m currently learning Python, C, C++
 - 🎂 Birth Place: MH 09
 - 💼 Work Place: MH 04
