@@ -1,5 +1,9 @@
 # Hi, HackerSM9 Here ..!
-<p align="center"><a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
+<p align="center">
+
+![Profile views](https://gpvc.arturio.dev/HackerSM9)
+
+<a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
 alt="GitHub Account HackerSM9"></a>
 <a href="https://twitter.com/HackerSM9_/"><img src="https://img.shields.io/badge/Twitter-HackerSM9__-black.svg?style=social&logo=twitter"
 alt="Twitter Account HackerSM9"></a></p>
