@@ -4,13 +4,13 @@
 <a/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=false">
 <a/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=HackerSM9&theme=onedark">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HackerSM9">
+</p>
 <a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
 alt="GitHub Account HackerSM9"></a>
 <a href="https://twitter.com/HackerSM9_/"><img src="https://img.shields.io/badge/Twitter-HackerSM9__-black.svg?style=social&logo=twitter"
-alt="Twitter Account HackerSM9"></a></p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HackerSM9)
+alt="Twitter Account HackerSM9"></a>
 
 ![Profile views](https://gpvc.arturio.dev/HackerSM9)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=101000624&left_color=grey&right_color=blue)
