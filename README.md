@@ -18,6 +18,5 @@ alt="Twitter Account HackerSM9"></a></p>
 <a/>
 
 ![Profile views](https://gpvc.arturio.dev/HackerSM9)
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=101000624&left_color=grey&right_color=blue)
 
