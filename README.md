@@ -14,6 +14,7 @@ alt="GitHub Account HackerSM9"></a>
 <a href="https://twitter.com/HackerSM9_/"><img src="https://img.shields.io/badge/Twitter-HackerSM9__-black.svg?style=social&logo=twitter"
 alt="Twitter Account HackerSM9"></a>
 
+![Visitors Count](https://profile-counter.glitch.me/HackerSM9/count.svg)
 ![Profile views](https://gpvc.arturio.dev/HackerSM9)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=101000624&left_color=grey&right_color=blue)
 
