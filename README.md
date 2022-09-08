@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4800&pause=800&color=B55CF7&width=350&lines=Hi+HackerSM9+Here+%F0%9F%91%8B%F0%9F%8F%BB+..!!;Professional+Hacker+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Android+%26+IOS+Developer.+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&pause=600&color=72DDF7&width=305&lines=Hi+HackerSM9+Here+%F0%9F%91%8B%F0%9F%8F%BB+..!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=600&color=54F798&width=235&height=30&lines=Professional+Hacker+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=hackersm9&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=hackersm9&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3400&hide_border=false">
 <a/>
