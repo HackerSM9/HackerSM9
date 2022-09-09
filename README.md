@@ -57,6 +57,6 @@ alt="Twitter Account HackerSM9"></a>
 
 <hr>
 
-<center style="text-align:center;"><a href="https://t.co/av9GnEYPgn"> 
-<img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+<center align="center"><a href="https://t.co/av9GnEYPgn"> 
+<img alt="BuyMeACoffee" align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 </a></center>
