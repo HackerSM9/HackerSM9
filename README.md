@@ -29,7 +29,6 @@ alt="Twitter Account HackerSM9"></a>
 
 ![Visitors Count](https://profile-counter.glitch.me/HackerSM9/count.svg)
 ![Profile views](https://gpvc.arturio.dev/HackerSM9)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=101000624&left_color=grey&right_color=blue)
 
 ## Languages that used..!
 
