@@ -29,6 +29,7 @@ alt="Twitter Account HackerSM9"></a>
 
 ![Visitors Count](https://profile-counter.glitch.me/HackerSM9/count.svg)
 ![Profile views](https://gpvc.arturio.dev/HackerSM9)
+![](https://komarev.com/ghpvc/?username=HackerSM9&color=blue)
 
 ## Languages that used..!
 
