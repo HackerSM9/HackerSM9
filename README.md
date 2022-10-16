@@ -26,10 +26,9 @@
 alt="GitHub Account HackerSM9"></a>
 <a href="https://twitter.com/HackerSM9_/"><img src="https://img.shields.io/badge/Twitter-HackerSM9__-black.svg?style=social&logo=twitter"
 alt="Twitter Account HackerSM9"></a>
-
+<h1>Visitors Count</h1>
 ![Visitors Count](https://profile-counter.glitch.me/HackerSM9/count.svg)
-![Profile views](https://gpvc.arturio.dev/HackerSM9)
-![](https://komarev.com/ghpvc/?username=HackerSM9&color=blueviolet)
+![Profile's View](https://komarev.com/ghpvc/?username=HackerSM9&color=blueviolet)
 
 ## Languages that used..!
 
