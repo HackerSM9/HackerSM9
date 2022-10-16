@@ -7,7 +7,7 @@
 <a href="https://GitHub.com/HackerSM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
 
 - 👋 Hi, I’m @Hackersm9
-- 👀 I’m interested in Coding, Developing, & Programming.
+- 👀 I’m interested in Coding, Developing, & Hacking.
 - 🌱 I’m currently learning Python, C, C++
 - 🎂 Birth Place: MH 09
 - 💼 Work Place: MH 04
