@@ -58,6 +58,8 @@ alt="Twitter Account HackerSM9"></a>
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&cover_image=true&theme=novatorem&show_offline=true&bar_color=7402ed&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <hr>
 
 <center align="center"><a href="https://t.co/av9GnEYPgn"> 
