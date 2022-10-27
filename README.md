@@ -14,6 +14,8 @@
 - 📫 How to reach me 400610 Thane (W), Maharashtra, India.
 - 📧 sm9hacking@gmail.com
 
+## 🎶 Actual Listening 🎶
+![🎶 Always Listening 🎶](https://github.com/HackerSM9/HackerSM9.github.io/blob/main/SVG/kgf2.svg)
 
 <p align="center">
 <h1>GitHub Stats</h1>
@@ -57,8 +59,6 @@ alt="Twitter Account HackerSM9"></a>
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&cover_image=true&theme=novatorem&show_offline=true&bar_color=7402ed&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <hr>
 
