@@ -15,7 +15,8 @@
 - 📧 sm9hacking@gmail.com
 
 ## 🎶 Actual Listening 🎶
-![🎶 Always Listening 🎶](https://github.com/HackerSM9/HackerSM9.github.io/blob/main/SVG/kgf2.svg)
+
+[![🎶 Always Listening 🎶](https://github.com/HackerSM9/HackerSM9.github.io/blob/main/SVG/kgf2.svg)](https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&redirect=true)
 
 <p align="center">
 <h1>GitHub Stats</h1>
