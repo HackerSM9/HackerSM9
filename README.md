@@ -16,7 +16,7 @@
 
 ## 🎶 Actual Listening 🎶
 
-[![🎶 Always Listening 🎶](https://github.com/HackerSM9/HackerSM9.github.io/blob/main/SVG/kgf2.svg)](https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&redirect=true)
+<img alt="🎶 Always Listening 🎶" src="https://github.com/HackerSM9/HackerSM9.github.io/SVG/kgf2.svg"><a href="https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&redirect=true"></a>
 
 <p align="center">
 <h1>GitHub Stats</h1>
