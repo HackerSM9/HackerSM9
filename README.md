@@ -27,7 +27,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&langs_count=20&theme=react&hide_border=false">
 </a>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=HackerSM9&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=HackerSM9&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7?sanitize=true)
 
 </p>
 <a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
