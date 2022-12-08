@@ -26,8 +26,14 @@
 <img src="https://github-profile-trophy.vercel.app/?username=HackerSM9&row=2&column=3&theme=onedark&no-frame=true">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HackerSM9&theme=violet-punch">
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&langs_count=20&theme=react&hide_border=false">
-</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&langs_count=20&theme=react&hide_border=false"></a>
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_timeline.svg)](https://github.com/HackerSM9/HackerSM9/commits)
+[![Trending topics](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_words.svg)](https://github.com/HackerSM9/HackerSM9/commits)
+[![Top contributors](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_users.svg)](https://github.com/HackerSM9/HackerSM9/graphs/contributors)
+[![Activity map](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_map.svg)](https://github.com/HackerSM9/HackerSM9/commits)
+
 
 </p>
 <a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
