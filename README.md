@@ -28,13 +28,6 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&langs_count=20&theme=react&hide_border=false"></a>
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_timeline.svg)](https://github.com/HackerSM9/HackerSM9/commits)
-[![Trending topics](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_words.svg)](https://github.com/HackerSM9/HackerSM9/commits)
-[![Top contributors](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_users.svg)](https://github.com/HackerSM9/HackerSM9/graphs/contributors)
-[![Activity map](https://images.repography.com/31984885/HackerSM9/HackerSM9/recent-activity/438c41147b019ce672383e9eacb1be9d_map.svg)](https://github.com/HackerSM9/HackerSM9/commits)
-
-
 </p>
 <a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
 alt="GitHub Account HackerSM9"></a>
@@ -46,7 +39,7 @@ alt="Twitter Account HackerSM9"></a>
 ![Visitors Count](https://profile-counter.glitch.me/HackerSM9/count.svg)
 ![Profile's View](https://komarev.com/ghpvc/?username=HackerSM9&color=blueviolet)
 
-## Languages that used..!
+## Langs that used..!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -63,7 +56,7 @@ alt="Twitter Account HackerSM9"></a>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Smartphone Brands that Developed.!!!
+## Brands that Developed.!!!
 
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
