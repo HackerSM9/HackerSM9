@@ -15,6 +15,11 @@
 - 📫 How to reach me 400610 Thane (W), Maharashtra, India.
 - 📧 sm9hacking@gmail.com
 
+## Social Media
+
+<a href="https://twitter.com/HackerSM9_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:sm9hacking@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 ## 🎶 Actual Listening 🎶
 
 <img alt="🎶 Always Listening 🎶" src="https://hackersm9.github.io/SVG/kgf2.svg?sanitize=true"><a href="https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&redirect=true"></a>
