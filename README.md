@@ -36,10 +36,10 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&langs_count=20&theme=react&hide_border=false?sanitize=true"></a>
 
 </p>
-<a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
-alt="GitHub Account HackerSM9"></a>
-<a href="https://twitter.com/HackerSM9_/"><img src="https://img.shields.io/badge/Twitter-HackerSM9__-black.svg?style=social&logo=twitter"
-alt="Twitter Account HackerSM9"></a>
+
+## Currently Working On
+
+[![SM9-System-Detector](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/SM9-System-Detector&mode=dark&style=horizontal)](https://github.com/HackerSM9/SM9-System-Detector)
 
 <h1 align="center">Visitors Count</h1>
 
