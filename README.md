@@ -35,7 +35,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=HackerSM9&row=2&column=3&theme=onedark&no-frame=true">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HackerSM9&theme=violet-punch">
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&langs_count=20&theme=react&hide_border=false?sanitize=true"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=false?sanitize=true"></a>
 
 </p>
 
