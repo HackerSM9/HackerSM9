@@ -43,6 +43,10 @@
 
 [![SM9-System-Detector](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/SM9-System-Detector&mode=dark&style=horizontal)](https://github.com/HackerSM9/SM9-System-Detector)
 
+## Lastest Tweets 🐦
+
+[![Lastest Tweets](https://github-readme-twitter-gazf.vercel.app/api?id=HackerSM9_&amp;layout=wide)](https://twitter.com/HackerSM9_/)
+
 <h1 align="center">Visitors Count</h1>
 
 ![Visitors Count](https://profile-counter.glitch.me/HackerSM9/count.svg)
