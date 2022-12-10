@@ -20,6 +20,7 @@
 <a href="https://twitter.com/HackerSM9_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/HackerSM9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/samarth-magdum-bb66a1221"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/18754125/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-eb8e0c.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 <a href="mailto:sm9hacking@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## 🎶 Actual Listening 🎶
