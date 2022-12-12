@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Splash&pause=600&color=72DDF7&width=305&lines=Hi+HackerSM9+Here+%F0%9F%91%8B%F0%9F%8F%BB+..!!)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&pause=600&color=4BF7C5FF&width=255&height=30&lines=Professional+Hacker+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=19&pause=500&color=46F749&background=C7FFA500&width=235&height=30&lines=Android+%26+IOS+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=19&pause=500&color=46F749&background=C7FFA500&width=235&height=30&lines=Android+%26+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+)
 
 - 👋 Hi, I’m @Hackersm9
 - 👀 I’m interested in Coding, Developing, & Hacking.
