@@ -38,6 +38,11 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=false?sanitize=true"></a>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </p>
