@@ -37,6 +37,9 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=false?sanitize=true"></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </p>
 
 ## Currently Working On
