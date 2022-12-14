@@ -30,6 +30,7 @@
 <p align="center">
 
 <h1>👨🏻‍💻 Coding Stats</h1>
+
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HackerSM9&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px">
 <a href="https://github-readme-stats.vercel.app/api?username=hackersm9&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=hackersm9&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3400&hide_border=false"><a/>
 <img src="https://github-profile-trophy.vercel.app/?username=HackerSM9&row=2&column=3&theme=darkhub&no-frame=true">
