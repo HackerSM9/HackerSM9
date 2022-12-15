@@ -12,8 +12,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
+            - public_access
+            - read:org     
+            - read:user     
+            - read:packages 
+            - repo
 
-          # Options
           user: HackerSM9
           template: classic
           base: header, activity, community, repositories, metadata
