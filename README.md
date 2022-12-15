@@ -15,14 +15,6 @@
 
 <a href="https://GitHub.com/HackerSM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
 
-## Social Media
-
-<a href="https://twitter.com/HackerSM9_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://instagram.com/HackerSM9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/samarth-magdum-bb66a1221"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/18754125/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-eb8e0c.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-<a href="mailto:sm9hacking@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 ## 🎶 Actual Listening 🎶
 
 <img alt="🎶 Always Listening 🎶" src="https://hackersm9.github.io/SVG/kgf2.svg?sanitize=true"><a href="https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&redirect=true"></a>
@@ -79,12 +71,19 @@
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
 
-<hr>
+## Social Media
+
+<a href="https://twitter.com/HackerSM9_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://instagram.com/HackerSM9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/samarth-magdum-bb66a1221"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/18754125/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-eb8e0c.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<a href="mailto:sm9hacking@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Contribute Me 💰
 <center align="center"><a href="https://t.co/av9GnEYPgn"> 
 <img alt="BuyMeACoffee" align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 </a></center>
+<hr>
 
 ## Full Data 
 ![Metrics](https://metrics.lecoq.io/HackerSM9?template=classic&base.indepth=true&repositories.forks=true&isocalendar=1&languages=1&introduction=1&repositories=1&achievements=1&gists=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=true&repositories=false&repositories.pinned=6&repositories.starred=1000&repositories.random=1000&repositories.order=featured%2C%20pinned%2C%20random&achievements=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=100&gists=false&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&config.timezone=Asia%2FCalcutta?sanitize=true)
