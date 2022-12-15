@@ -27,7 +27,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=hackersm9&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=hackersm9&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3400&hide_border=false"><a/>
 <img src="https://github-profile-trophy.vercel.app/?username=HackerSM9&row=2&column=3&theme=darkhub&no-frame=true">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HackerSM9&theme=violet-punch">
-<img src="https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=F8D866&line=5008bd&point=FFFFFF&hide_border=true">
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&theme=react&hide_border=true&cache_seconds=3200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=false?sanitize=true"></a>
 
