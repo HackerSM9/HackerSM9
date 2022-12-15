@@ -12,12 +12,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-            - public_access
-            - read:org     
-            - read:user     
-            - read:packages 
-            - repo
-          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: HackerSM9
