@@ -5,18 +5,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=4BF7C5FF&width=255&height=30&lines=Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=19&pause=500&color=46F749&background=C7FFA500&width=235&height=30&lines=Android+%26+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+)
 
-- 👋 Hi, I’m @Hackersm9
+- 👋 Hi, I’m @HackerSM9
 - 👀 I’m interested in Coding, Developing, & Hacking.
-- 🌱 I’m currently learning Python, C, C++
+- 🌱 I’m currently learning Python, SCSS, IT
 - 🎂 Birth Place: MH 09
 - 💼 Work Place: MH 04
-- 📫 How to reach me 400610 Thane (W), Maharashtra, India.
+- 📫 How to reach me 400610 Thane, Maharashtra, India.
 - 📧 sm9hacking@gmail.com
 
 <a href="https://GitHub.com/HackerSM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
 
 ## 🎶 Actual Listening 🎶
-
 [![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/kgf2.svg?sanitize=true)](https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&redirect=true)
 
 <h1> 👨🏻‍💻 Coding Stats </h1>
@@ -28,6 +27,7 @@
 ![GitHub-Activities](https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=F8D866&line=5008bd&point=FFFFFF&hide_border=true)
 ![Github-Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true)
 ![Github-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=false?sanitize=true)
+![](https://github.com/HackerSM9?achievement=starstruck&tab=achievements)
 
 ## Currently Working On
 
