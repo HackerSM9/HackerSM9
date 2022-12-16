@@ -11,13 +11,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: HackerSM9-metrics.svg
           token: ${{ secrets.GH_TOKEN }}
-            - public_access
-            - read:org     
-            - read:user     
-            - read:packages 
-            - repo
-
           user: HackerSM9
           template: classic
           base: header, activity, community, repositories, metadata
@@ -42,8 +37,8 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_pinned: 4
-          plugin_repositories_starred: 1
+          plugin_repositories_pinned: 3
+          plugin_repositories_starred: 2
           plugin_tweets: yes
           plugin_tweets_limit: 2
-          plugin_tweets_user: .user.twitter
+          plugin_tweets_user: HackerSM9_
