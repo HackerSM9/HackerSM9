@@ -27,14 +27,15 @@
 ![GitHub-Activities](https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=F8D866&line=5008bd&point=FFFFFF&hide_border=true)
 ![Github-Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true)
 ![Github-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=false?sanitize=true)
-![](https://photos.app.goo.gl/Hdaged8XCQejXkoH6)
+
+<h3 align="center">GitHub Achievements</h3>
+<img style="height:100px" src="https://HackerSM9.github.io/SVG/achievements/starstruck.svg">
+
 
 ## Currently Working On
-
 [![SM9-System-Detector](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/SM9-System-Detector&mode=dark&style=horizontal)](https://github.com/HackerSM9/SM9-System-Detector)
 
 ## Lastest Tweets 🐦
-
 [![Lastest Tweets](https://github-readme-twitter-gazf.vercel.app/api?id=HackerSM9_&amp;layout=wide)](https://twitter.com/HackerSM9_/)
 
 <h1 align="center">Visitors Count</h1>
@@ -44,8 +45,8 @@
 <br>
 ![Visitors From Different Countries](https://s01.flagcounter.com/count2/MLwa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_100/viewers_0/labels_1/pageviews_0/flags_0/percent_0/)
 
-## Langs that used..!
 
+## Langs that used..!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -55,14 +56,12 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## OS in use.!!
-
 ![iOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Brands that Developed.!!!
-
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
@@ -77,10 +76,9 @@
 <a href="mailto:sm9hacking@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Contribute Me 💰
-<center align="center"><a href="https://t.co/av9GnEYPgn"> 
-<img alt="BuyMeACoffee" align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-</a></center>
+[![BuyMeACoffee](https://HackerSM9.github.io/SVG/coffee.svg)](https://t.co/av9GnEYPgn)
+
 <hr>
 
-## Full Data 
+## Full Data 📊
 ![Metrics](https://metrics.lecoq.io/HackerSM9?template=classic&gists=1&repositories=1&achievements=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=15&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories=false&repositories.pinned=3&repositories.starred=2&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&gists=false&config.timezone=Asia%2FCalcutta)
