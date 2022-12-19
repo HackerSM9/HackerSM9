@@ -1,4 +1,5 @@
 <h6 align="center">Thanks those who are Following Me 🙏🏻❤️</h6>
+<hr>
 <h1>Bio</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Splash&pause=600&color=72DDF7&width=305&lines=Hi+HackerSM9+Here+%F0%9F%91%8B%F0%9F%8F%BB+..!!)
@@ -8,10 +9,10 @@
 - 👋 Hi, I’m @HackerSM9
 - 👀 I’m interested in Coding, Developing, & Hacking.
 - 🌱 I’m currently learning Python, SCSS, IT basics.
-- 🎂 Birth Place: MH 09
-- 💼 Work Place: MH 04
-- 📫 How to reach me 400610 Thane, Maharashtra, India.
-- 📧 sm9hacking@gmail.com
+* 🎂 Birth Place: MH 09
+* 💼 Work Place: MH 04
+* 📫 How to reach me 400610 Thane, Maharashtra, India.
+* 📧 sm9hacking@gmail.com
 
 <a href="https://GitHub.com/HackerSM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
 
