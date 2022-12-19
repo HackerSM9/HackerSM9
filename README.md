@@ -22,12 +22,12 @@
 <h1> 👨🏻‍💻 Coding Stats </h1>
 
 ![Rankings](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HackerSM9&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
-![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=HackerSM9&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)
+![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=HackerSM9&include_all_commits=true&count_private=true&hide_border=false&show_icons=true&title_color=7A7ADB&icon_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)
 ![GitHub-Trophies](https://github-profile-trophy.vercel.app/?username=HackerSM9&row=2&column=3&theme=darkhub&no-frame=true)
 ![GitHub-Streaks](https://github-readme-streak-stats.herokuapp.com?user=HackerSM9&theme=violet-punch)
 ![GitHub-Activities](https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=F8D866&line=5008bd&point=FFFFFF&hide_border=true)
 ![Github-Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true)
-![Github-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=false?sanitize=true)
+![Github-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=true?sanitize=true)
 ![GitHub-Contribution-Grid-Snake](https://github.com/HackerSM9/HackerSM9/output/HackerSM9-snk.svg)
 
 <h3 align="center">GitHub Achievements 🏆</h3>
