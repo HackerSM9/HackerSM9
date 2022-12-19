@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @HackerSM9
 - 👀 I’m interested in Coding, Developing, & Hacking.
-- 🌱 I’m currently learning Python, SCSS, IT
+- 🌱 I’m currently learning Python, SCSS, IT basics.
 - 🎂 Birth Place: MH 09
 - 💼 Work Place: MH 04
 - 📫 How to reach me 400610 Thane, Maharashtra, India.
@@ -41,6 +41,7 @@
 <h1 align="center">Visitors Count</h1>
 
 ![Visitors Count](https://profile-counter.glitch.me/HackerSM9/count.svg)
+<br>
 ![Profile's View](https://komarev.com/ghpvc/?username=HackerSM9&color=blueviolet)
 <br>
 ![Visitors From Different Countries](https://s01.flagcounter.com/count2/MLwa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_100/viewers_0/labels_1/pageviews_0/flags_0/percent_0/)
