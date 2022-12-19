@@ -29,7 +29,7 @@
 ![Github-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=20&theme=react&hide_border=false?sanitize=true)
 
 <h3 align="center">GitHub Achievements</h3>
-<img style="height:100px" src="https://HackerSM9.github.io/SVG/achievements/starstruck.svg">
+<img alt="Starstruck" style="height:100px" src="https://HackerSM9.github.io/SVG/achievements/starstruck.svg">
 
 
 ## Currently Working On
