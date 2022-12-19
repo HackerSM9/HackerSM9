@@ -2,10 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 6 hours
     - cron: "0 * * * *"
 
-- uses: Platane/snk@v2
+- uses: Platane/snk@v2.1.0
   with:
     github_user_name: HackerSM9
 
