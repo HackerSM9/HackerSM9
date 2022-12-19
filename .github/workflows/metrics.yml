@@ -10,9 +10,6 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-    outputs: |
-      HackerSM9-metrics.svg
-
         with:
           filename: HackerSM9-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
