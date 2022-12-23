@@ -78,7 +78,7 @@
 <a href="mailto:sm9hacking@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Contribute Me 💰
-[![Contribute Me](https://liberapay.com/HackerSM9/)](https://hackersm9.github.io/SVG/donate.svg?sanitize=true)
+[![Contribute Me](https://hackersm9.github.io/SVG/donate.svg)](https://liberapay.com/HackerSM9/)
 [![BuyMeACoffee](https://HackerSM9.github.io/SVG/coffee.svg?sanitize=true)](https://t.co/av9GnEYPgn)
 
 <hr>
