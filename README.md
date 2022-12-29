@@ -94,7 +94,32 @@
 <hr>
 
 ## My Followers
+
 <!-- START-SECTION:top-followers -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Yonathanpy">
+        <img src="https://avatars.githubusercontent.com/u/109464957?v=4" width="100px;" alt="Yonathanpy"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yonathanpy">Zombozo001</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cryptoparrott">
+        <img src="https://avatars.githubusercontent.com/u/107348023?v=4" width="100px;" alt="cryptoparrott"/>
+      </a>
+      <br />
+      <a href="https://github.com/cryptoparrott">Cryptoparrott</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/devzmzm">
+        <img src="https://avatars.githubusercontent.com/u/90980694?v=4" width="100px;" alt="devzmzm"/>
+      </a>
+      <br />
+      <a href="https://github.com/devzmzm">ZmZm</a>
+    </td>
+</table>
 <!-- END-SECTION:top-followers -->
 
 ## Full Data 📊
