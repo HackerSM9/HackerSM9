@@ -14,6 +14,14 @@
 * 📫 How to reach me 400610 Thane, Maharashtra, India.
 * 📧 sm9hacking@gmail.com
 
+## What I'm 😇
+- [x] 💞 Open Source
+- [x] 💰 Free of Cost
+- [x] 📲 Contactable
+- [x] 🔐 Issue Solver
+- [x] 🔠 Loves all Languages
+- [x] Loves all Castes (🕉️,✝️,☪️,🔯, etc.)
+
 <a href="https://GitHub.com/HackerSM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
 
 ## 🎶 Actual Listening 🎶
