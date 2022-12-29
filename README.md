@@ -7,6 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=19&pause=500&color=46F749&background=C7FFA500&width=235&height=30&lines=Android+%26+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+)
 
 - 👋 Hi, I’m @HackerSM9
+- 🗣️ Pronouns: Hacker S_M_9 = HackerSM9
 - 👀 I’m interested in Coding, Developing, & Hacking.
 - 🌱 I’m currently learning Python, SCSS, IT basics.
 * 🎂 Birth Place: MH 09
