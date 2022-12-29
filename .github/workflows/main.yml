@@ -1,25 +1,35 @@
-name: Generate Snake
+name: Get Top Followers
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 22 * * *'
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+  top-followers:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/checkout@v3
+      - name: Setup python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: HackerSM9
-          svg_out_path: dist/HackerSM9-snk.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+          python-version: 3.8
+      - name: Install requests
+        run: pip install requests
+      - name: Update README
+        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GH_TOKEN }} README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action 🤖"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update top followers"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@0fafdd62b84042d49ec0cb92d9cac7f7ce4ec79e
         with:
-          target_branch: output
-          build_dir: dist
-        env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
