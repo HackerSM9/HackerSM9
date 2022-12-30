@@ -100,25 +100,93 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Yonathanpy">
-        <img src="https://avatars.githubusercontent.com/u/109464957?v=4" width="100px;" alt="Yonathanpy"/>
+        <img src="https://avatars.githubusercontent.com/u/109464957?v=4" width="50px;" alt="Yonathanpy"/>
       </a>
       <br />
       <a href="https://github.com/Yonathanpy">Zombozo001</a>
     </td>
     <td align="center">
       <a href="https://github.com/cryptoparrott">
-        <img src="https://avatars.githubusercontent.com/u/107348023?v=4" width="100px;" alt="cryptoparrott"/>
+        <img src="https://avatars.githubusercontent.com/u/107348023?v=4" width="50px;" alt="cryptoparrott"/>
       </a>
       <br />
       <a href="https://github.com/cryptoparrott">Cryptoparrott</a>
     </td>
     <td align="center">
       <a href="https://github.com/devzmzm">
-        <img src="https://avatars.githubusercontent.com/u/90980694?v=4" width="100px;" alt="devzmzm"/>
+        <img src="https://avatars.githubusercontent.com/u/90980694?v=4" width="50px;" alt="devzmzm"/>
       </a>
       <br />
       <a href="https://github.com/devzmzm">ZmZm</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Ajayrajput09">
+        <img src="https://avatars.githubusercontent.com/u/113991628?v=4" width="50px;" alt="Ajayrajput09"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ajayrajput09">Ajayrajput09</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Lammykay2003">
+        <img src="https://avatars.githubusercontent.com/u/115745900?v=4" width="50px;" alt="Lammykay2003"/>
+      </a>
+      <br />
+      <a href="https://github.com/Lammykay2003">Lammykay2003</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KUSHAL73697">
+        <img src="https://avatars.githubusercontent.com/u/97878226?v=4" width="50px;" alt="KUSHAL73697"/>
+      </a>
+      <br />
+      <a href="https://github.com/KUSHAL73697">KUSHAL</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hackersst7">
+        <img src="https://avatars.githubusercontent.com/u/119403444?v=4" width="50px;" alt="Hackersst7"/>
+      </a>
+      <br />
+      <a href="https://github.com/hackersst7">HackerSST7</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Astermoe">
+        <img src="https://avatars.githubusercontent.com/u/120032985?v=4" width="50px;" alt="Astermoe"/>
+      </a>
+      <br />
+      <a href="https://github.com/Astermoe">Astermoe</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/naim13579">
+        <img src="https://avatars.githubusercontent.com/u/119455819?v=4" width="50px;" alt="naim13579"/>
+      </a>
+      <br />
+      <a href="https://github.com/naim13579">Naim13579</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ginbotz">
+        <img src="https://avatars.githubusercontent.com/u/120940858?v=4" width="50px;" alt="ginbotz"/>
+      </a>
+      <br />
+      <a href="https://github.com/ginbotz">Ginbotz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Shekher7">
+        <img src="https://avatars.githubusercontent.com/u/120139703?v=4" width="50px;" alt="Shekher7"/>
+      </a>
+      <br />
+      <a href="https://github.com/Shekher7">Shekher7</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Vairaalka">
+        <img src="https://avatars.githubusercontent.com/u/91528173?v=4" width="50px;" alt="Vairaalka"/>
+      </a>
+      <br />
+      <a href="https://github.com/Vairaalka">Vairaalka</a>
+    </td>
+  </tr>
 </table>
 <!-- END-SECTION:top-followers -->
 
