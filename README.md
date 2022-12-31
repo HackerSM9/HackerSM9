@@ -187,6 +187,15 @@
       <a href="https://github.com/Vairaalka">Vairaalka</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Shariq2016">
+        <img src="https://avatars.githubusercontent.com/u/104676543?v=4" width="50px;" alt="Shariq2016"/>
+      </a>
+      <br />
+      <a href="https://github.com/Shariq2016">Shariq2016</a>
+    </td>
+  </tr>
 </table>
 <!-- END-SECTION:top-followers -->
 
