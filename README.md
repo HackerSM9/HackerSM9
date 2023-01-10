@@ -221,6 +221,29 @@
       <br />
       <a href="https://github.com/PutrAEsAPrasetyA">PutrAEsAPrasetyA</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Anonimatodecideavito">
+        <img src="https://avatars.githubusercontent.com/u/109583471?v=4" width="50px;" alt="Yonathanpy"/>
+      </a>
+      <br />
+      <a href="https://github.com/Anonimatodecideavito">Anonimatodecideavito</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ovokeijori">
+        <img src="https://avatars.githubusercontent.com/u/122323532?v=4" width="50px;" alt="Lammykay2003"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ovokeijori">Ovokeijori</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ninad1493">
+        <img src="https://avatars.githubusercontent.com/u/104410907?v=4" width="50px;" alt="KUSHAL73697"/>
+      </a>
+      <br />
+      <a href="https://github.com/ninad1493">Ninad1493</a>
+    </td>
   </tr>
 </table>
 <!-- END-SECTION:top-followers -->
