@@ -101,6 +101,7 @@
 
 ## Contribute Me 💰
 [![Contribute Me](https://hackersm9.github.io/SVG/donate.svg)](https://liberapay.com/HackerSM9/)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5FJC3M)
 [![BuyMeACoffee](https://HackerSM9.github.io/SVG/coffee.svg?sanitize=true)](https://t.co/av9GnEYPgn)
 
 <hr>
