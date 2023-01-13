@@ -101,7 +101,7 @@
 <a href="mailto:sm9hacking@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Contribute Me 💰
-[![Pay With UPI](https://HackerSM9.github.io/SVG/upi.svg)](upi://pay?pa=hackersm9.famc@idfcbank&am=500&cu=INR)
+[![Pay With UPI](https://HackerSM9.github.io/SVG/upi.svg)](https://tinyurl.com/2gdqef3v)
 [![Contribute Me](https://hackersm9.github.io/SVG/donate.svg)](https://liberapay.com/HackerSM9/)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5FJC3M)
 [![BuyMeACoffee](https://HackerSM9.github.io/SVG/coffee.svg?sanitize=true)](https://t.co/av9GnEYPgn)
