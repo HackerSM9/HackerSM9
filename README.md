@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning Python, SCSS, IT basics.
 * 🎂 Birth Place: MH 09
 * 💼 Work Place: MH 04
-* 📫 How to reach me 400610 Thane, Maharashtra, India.
-* 📧 sm9hacking@gmail.com
-* 💲 HackerSM9.famc@idfcbank
+* 🛫 How to reach me: 400610 Thane, Maharashtra, India.
+* 📧 Email: sm9hacking@gmail.com
+* 💲 Payment ID: HackerSM9.famc@idfcbank
 
 ## What I'm 😇
 - [x] 💞 Open Source
