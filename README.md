@@ -247,9 +247,24 @@
       <br />
       <a href="https://github.com/ninad1493">Ninad1493</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/mior2710">
+        <img src="https://avatars.githubusercontent.com/u/122747751?v=4" width="50px;" alt="Yonathanpy"/>
+      </a>
+      <br />
+      <a href="https://github.com/mior2710">Mior2710</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/youngjoker726">
+        <img src="https://avatars.githubusercontent.com/u/122759241?v=4" width="50px;" alt="cryptoparrott"/>
+      </a>
+      <br />
+      <a href="https://github.com/youngjoker726">Youngjoker726</a>
+    </td>
   </tr>
 </table>
-<!-- END-SECTION:top-followers -->
+<p align="center">scroll to view more →</p>
+
 <h6 align="center">Thanks those who are Following Me 🙏🏻❤️</h6>
 
 ## Full Data 📊
