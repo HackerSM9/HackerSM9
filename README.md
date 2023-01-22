@@ -284,6 +284,22 @@
       <br />
       <a href="https://github.com/Malang78">Malang78</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/JJNASHRQ">
+        <img src="https://avatars.githubusercontent.com/u/107672222?v=4" width="50px;" alt="Lammykay2003"/>
+      </a>
+      <br />
+      <a href="https://github.com/JJNASHRQ">JJNASHRQ</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dynamo14324">
+        <img src="https://avatars.githubusercontent.com/u/47173851?v=4" width="50px;" alt="Lammykay2003"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dynamo14324">Dynamo14324</a>
+    </td>
   </tr>
 </table>
 <p align="center">scroll to view more →</p>
