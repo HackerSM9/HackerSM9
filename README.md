@@ -24,7 +24,8 @@
 <a href="https://GitHub.com/HackerSM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
 
 ## 🎶 Actual Listening 🎶
-[![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/kgf2.svg?sanitize=true)](https://spotify-github-profile.vercel.app/api/view?uid=5ag202z07hrwwfxqbjbfafyuf&redirect=true)
+![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/kgf2.svg?sanitize=true)
+![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/tigini.svg?sanitize=true)
 
 <h1> 👨🏻‍💻 Coding Stats </h1>
 
