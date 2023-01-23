@@ -42,7 +42,7 @@
 <img alt="Starstruck" style="height:100px" src="https://HackerSM9.github.io/SVG/achievements/starstruck.svg">
 
 ## Currently Working On 👨‍🔧
-[![SM9-System-Detector](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/SM9-System-Detector&mode=dark&style=horizontal)](https://github.com/HackerSM9/SM9-System-Detector)
+[![SM9-System-Detector](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/UPI&mode=dark&style=horizontal)](https://github.com/HackerSM9/UPI)
 [![HackerSM9's TTS](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/text-to-speech&mode=dark&style=horizontal)](https://github.com/HackerSM9/text-to-speech)
 
 ## Lastest Tweets 🐦
