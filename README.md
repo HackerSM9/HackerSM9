@@ -25,7 +25,7 @@
 
 ## 🎶 Actual Listening 🎶
 ![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/kgf2.svg?sanitize=true)
-![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/tigini.svg?sanitize=true)
+![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/tigini.svg)
 
 <h1> 👨🏻‍💻 Coding Stats </h1>
 
