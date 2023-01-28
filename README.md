@@ -301,13 +301,6 @@
       <br />
       <a href="https://github.com/Dynamo14324">Dynamo14324</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Jirafey">
-        <img src="https://avatars.githubusercontent.com/u/97115044?v=4" width="50px;" alt="Lammykay2003"/>
-      </a>
-      <br />
-      <a href="https://github.com/Jirafey">Grzegorz Kmita</a>
-    </td>
   </tr>
 </table>
 <p align="center">scroll to view more →</p>
