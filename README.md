@@ -38,9 +38,10 @@
 ![Github-Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true)
 ![GitHub-Streaks](https://github-readme-streak-stats.herokuapp.com?user=HackerSM9&theme=violet-punch)
 ![GitHub-Activities](https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=F8D866&line=5008bd&point=FFFFFF&hide_border=true)
+
+## Usage 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
 
 **🐱 My GitHub Data** 
@@ -84,16 +85,17 @@ Sunday       117 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML
+Python 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS-Code
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SM9-SYSTEM-DETECTOR
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows 10
 
 ```
 
