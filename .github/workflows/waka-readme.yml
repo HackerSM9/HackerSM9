@@ -7,19 +7,23 @@ on:
 
 jobs:
   update-readme:
+    permissions: write-all
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@v0.1.7
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: HackerSM9/SM9-System-Detector
-          SECTION_NAME:	waka
-          SHOW_TITLE: true
-          BLOCKS: ░▒▓█
-          SHOW_TOTAL: true
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"
+          BLOCKS: "🤍💙💜"
           TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_LANGUAGE: true
+          SHOW_TIME: "True"
+          SHOW_MASKED_TIME: "True"
+          SHOW_TITLE: "True"
