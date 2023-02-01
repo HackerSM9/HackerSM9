@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: HackerSM9/HackerSM9
+          REPOSITORY: HackerSM9/SM9-System-Detector
           SECTION_NAME:	waka
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
@@ -22,3 +22,4 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          SHOW_LANGUAGE: true
