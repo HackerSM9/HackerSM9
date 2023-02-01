@@ -38,6 +38,8 @@
 ![Github-Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true)
 ![GitHub-Streaks](https://github-readme-streak-stats.herokuapp.com?user=HackerSM9&theme=violet-punch)
 ![GitHub-Activities](https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=F8D866&line=5008bd&point=FFFFFF&hide_border=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
 
 <h3 align="center">GitHub Achievements 🏆</h3>
