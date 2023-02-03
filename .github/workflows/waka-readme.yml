@@ -14,16 +14,10 @@ jobs:
       - uses: athul/waka-readme@v0.1.7
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_SHORT_INFO: "True"
-          BLOCKS: "🤍💙💜"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: all_time
           SHOW_TIME: "True"
           SHOW_MASKED_TIME: "True"
           SHOW_TITLE: "True"
+          SHOW_TOTAL: "True"
+          REPOSITORY: HackerSM9/SM9-System-Detector 
