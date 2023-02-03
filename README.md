@@ -256,28 +256,28 @@ Windows                  47 mins             ███████████�
   <tr>
     <td align="center">
       <a href="https://github.com/Shariq2016">
-        <img src="https://avatars.githubusercontent.com/u/104676543?v=4" width="50px;" alt="Shariq2016"/>
+        <img src="https://avatars.githubusercontent.com/u/104676543?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/Shariq2016">Shariq2016</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sajadamire">
-        <img src="https://avatars.githubusercontent.com/u/115345837?v=4" width="50px;" alt="Shariq2016"/>
+        <img src="https://avatars.githubusercontent.com/u/115345837?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/Sajadamire">Sajadamire</a>
     </td>
     <td align="center">
       <a href="https://github.com/PutrAEsAPrasetyA">
-        <img src="https://avatars.githubusercontent.com/u/48920440?v=4" width="50px;" alt="Shariq2016"/>
+        <img src="https://avatars.githubusercontent.com/u/48920440?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/PutrAEsAPrasetyA">PutrAEsAPrasetyA</a>
     </td>
     <td align="center">
       <a href="https://github.com/Anonimatodecideavito">
-        <img src="https://avatars.githubusercontent.com/u/109583471?v=4" width="50px;" alt="Yonathanpy"/>
+        <img src="https://avatars.githubusercontent.com/u/109583471?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/Anonimatodecideavito">Anonimatodecideavito</a>
@@ -286,28 +286,28 @@ Windows                  47 mins             ███████████�
   <tr>
     <td align="center">
       <a href="https://github.com/Ovokeijori">
-        <img src="https://avatars.githubusercontent.com/u/122323532?v=4" width="50px;" alt="Lammykay2003"/>
+        <img src="https://avatars.githubusercontent.com/u/122323532?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/Ovokeijori">Ovokeijori</a>
     </td>
     <td align="center">
       <a href="https://github.com/ninad1493">
-        <img src="https://avatars.githubusercontent.com/u/104410907?v=4" width="50px;" alt="KUSHAL73697"/>
+        <img src="https://avatars.githubusercontent.com/u/104410907?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/ninad1493">Ninad1493</a>
     </td>
     <td align="center">
       <a href="https://github.com/mior2710">
-        <img src="https://avatars.githubusercontent.com/u/122747751?v=4" width="50px;" alt="Yonathanpy"/>
+        <img src="https://avatars.githubusercontent.com/u/122747751?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/mior2710">Mior2710</a>
     </td>
     <td align="center">
       <a href="https://github.com/youngjoker726">
-        <img src="https://avatars.githubusercontent.com/u/122759241?v=4" width="50px;" alt="cryptoparrott"/>
+        <img src="https://avatars.githubusercontent.com/u/122759241?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/youngjoker726">Youngjoker726</a>
@@ -316,28 +316,28 @@ Windows                  47 mins             ███████████�
   <tr>
     <td align="center">
       <a href="https://github.com/VoipSip">
-        <img src="https://avatars.githubusercontent.com/u/67077544?v=4" width="50px;" alt="KUSHAL73697"/>
+        <img src="https://avatars.githubusercontent.com/u/67077544?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/VoipSip">VoipSip</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tifluhlxgmdhld">
-        <img src="https://avatars.githubusercontent.com/u/122981668?v=4" width="50px;" alt="Lammykay2003"/>
+        <img src="https://avatars.githubusercontent.com/u/122981668?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/Tifluhlxgmdhld">Tifluhlxgmdhld</a>
     </td>
     <td align="center">
       <a href="https://github.com/Malang78">
-        <img src="https://avatars.githubusercontent.com/u/118657127?v=4" width="50px;" alt="KUSHAL73697"/>
+        <img src="https://avatars.githubusercontent.com/u/118657127?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/Malang78">Malang78</a>
     </td>
     <td align="center">
       <a href="https://github.com/JJNASHRQ">
-        <img src="https://avatars.githubusercontent.com/u/107672222?v=4" width="50px;" alt="Lammykay2003"/>
+        <img src="https://avatars.githubusercontent.com/u/107672222?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/JJNASHRQ">JJNASHRQ</a>
@@ -346,7 +346,7 @@ Windows                  47 mins             ███████████�
   <tr>
     <td align="center">
       <a href="https://github.com/Dynamo14324">
-        <img src="https://avatars.githubusercontent.com/u/47173851?v=4" width="50px;" alt="Lammykay2003"/>
+        <img src="https://avatars.githubusercontent.com/u/47173851?v=4" width="50px;" alt=""/>
       </a>
       <br />
       <a href="https://github.com/Dynamo14324">Dynamo14324</a>
@@ -357,6 +357,13 @@ Windows                  47 mins             ███████████�
         alt="Ww1122334455667788">
       <br />
       <a href="https://github.com/Ww1122334455667788">Ww1122334455667788</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0Demise">
+        <img src="https://avatars.githubusercontent.com/u/122534923?v=4" width="50px;" alt="0Demise"/>
+      </a>
+      <br />
+      <a href="https://github.com/0Demise">0Demise</a>
     </td>
   </tr>
 </table>
