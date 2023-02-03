@@ -14,13 +14,13 @@ jobs:
       - uses: athul/waka-readme@v0.1.7
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "True"
+          SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
           SHOW_SHORT_INFO: "True"
           BLOCKS: "🤍💙💜"
           TIME_RANGE: all_time
