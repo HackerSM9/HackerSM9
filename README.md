@@ -41,83 +41,8 @@
 
 ## Usage 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 137 Contributions in the Year 2023
- > 
-> 📦 33.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
-🌆 Daytime    886 commits    ██████████████████░░░░░░░   74.83% 
-🌃 Evening    290 commits    ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
-Tuesday      169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
-Wednesday    155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
-Thursday     219 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-Friday       203 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
-Saturday     159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
-Sunday       117 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.88%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML
-Python 
-
-🔥 Editors: 
-VS-Code
-
-🐱‍💻 Projects: 
-SM9-SYSTEM-DETECTOR
-
-💻 Operating System: 
-Windows 10
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   30.43% 
-HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   30.43% 
-Shell                    6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/HackerSM9/HackerSM9/master/charts/bar_graph.png) 
-
-
- Last Updated on 01/02/2023 11:48:44 UTC
 <!--END_SECTION:waka-->
+
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
 
 <h3 align="center">GitHub Achievements 🏆</h3>
