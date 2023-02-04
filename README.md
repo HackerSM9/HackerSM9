@@ -37,7 +37,7 @@
 ![Github-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackersm9&layout=compact&langs_count=21&theme=react&hide_border=true)
 ![Github-Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HackerSM9&skills=&show-other-skills=true)
 ![GitHub-Streaks](https://github-readme-streak-stats.herokuapp.com?user=HackerSM9&theme=violet-punch)
-![GitHub-Activities](https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=F8D866&line=5008bd&point=FFFFFF&hide_border=true)
+![GitHub-Activities](https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=21e60b&line=5008bd&point=FFFFFF&hide_border=true)
 
 ## Usage 
 <!--START_SECTION:waka-->
