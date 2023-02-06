@@ -358,9 +358,6 @@ Windows                  1 hr 15 mins        ███████████�
       <br />
       <a href="https://github.com/Ww1122334455667788">Ww1122334455667788</a>
     </td>
-<<<<<<< HEAD
-    <td align>
-=======
     <td align="center">
       <a href="https://github.com/0Demise">
         <img src="https://avatars.githubusercontent.com/u/122534923?v=4" width="50px;" alt="0Demise"/>
@@ -368,7 +365,6 @@ Windows                  1 hr 15 mins        ███████████�
       <br />
       <a href="https://github.com/0Demise">0Demise</a>
     </td>
->>>>>>> 5e49f6428d0303d09e47a99168c8c8e3afa0ff5b
   </tr>
 </table>
 <p align="center">scroll to view more →</p>
