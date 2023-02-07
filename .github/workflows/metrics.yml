@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ github.token }}
           user: HackerSM9
           template: classic
           base: header, activity, community, repositories, metadata
