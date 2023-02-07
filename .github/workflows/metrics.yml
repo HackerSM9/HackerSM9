@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
+          filename: metrics.svg
           token: ${{ secrets.METRICS_SECRET }}
           user: HackerSM9
           template: classic
