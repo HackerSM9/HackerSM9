@@ -361,6 +361,29 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/0Demise">0Demise</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/yajin739">
+        <img src="https://avatars.githubusercontent.com/u/83105289?v=4" width="50px;" alt="yajin739"/>
+      </a>
+      <br />
+      <a href="https://github.com/yajin739">yajin739</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+     <a href="https://github.com/TheMoonEater">
+       <img src="https://avatars.githubusercontent.com/u/92857739?v=4" width="50px;"
+        />
+      <br />
+      <a href="https://github.com/TheMoonEater">TheMoonEater</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/agrhatea">
+        <img src="https://avatars.githubusercontent.com/u/56823689?v=4" width="50px;" />
+      </a>
+      <br />
+      <a href="https://github.com/agrhatea">agrhatea</a>
+    </td>
   </tr>
 </table>
 <p align="center">scroll to view more →</p>
