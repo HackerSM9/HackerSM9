@@ -30,7 +30,7 @@
 
 <h1> 👨🏻‍💻 Coding Stats </h1>
 
-![Rankings](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HackerSm9&badges=3&show-avatar=true&style=--header-bg-color:%2339068c;)
+![Rankings](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HackerSM9&badges=3&show-avatar=true&style=--header-bg-color:%2339068c;)
 ![GitHub-Stats](https://github-stats-alpha.vercel.app/api/?username=HackerSM9&cc=000&ic=7402ed&tc=7a7adb&bc=fff)
 ![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=HackerSM9&include_all_commits=true&count_private=true&hide_border=false&show_icons=true&title_color=7A7ADB&icon_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)
 ![GitHub-Trophies](https://github-profile-trophy.vercel.app/?username=HackerSM9&row=2&column=3&theme=darkhub&no-frame=true)
