@@ -21,7 +21,7 @@
 - [x] 🔠 Loves all Languages
 - [x] 🛐 Loves all Castes
 
-<a href="https://GitHub.com/HackerSM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
+<a href="https://GitHub.com/hackersM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
 
 ## 🎶 Actual Listening 🎶
 ![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/kgf2.svg?sanitize=true)
