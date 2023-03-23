@@ -25,11 +25,6 @@ Watch My First Year 🥳 of GitHub 🎉 https://da.gd/sm9gh1
 
 <a href="https://GitHub.com/hackersM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
 
-## 🎶 Actual Listening 🎶
-![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/kgf2.svg?sanitize=true)
-![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/mc_stan.svg)
-![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/tigini.svg)
-
 <h1> 👨🏻‍💻 Coding Stats </h1>
 
 ![Rankings](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hacKersm9&badges=3&show-avatar=true&style=--header-bg-color:%2339068c;)
@@ -87,6 +82,12 @@ No Activity Tracked This Week
 
 <h3 align="center">GitHub Achievements 🏆</h3>
 <img alt="Starstruck" style="height:100px" src="https://HackerSM9.github.io/SVG/achievements/starstruck.svg">
+
+## 🎶 Actual Listening 🎶
+
+![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/kgf2.svg?sanitize=true)
+![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/nights.svg)
+![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/bones.svg)
 
 ## Currently Working On 👨‍🔧
 [![SM9-System-Detector](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/UPI&mode=dark&style=horizontal)](https://github.com/HackerSM9/UPI)
