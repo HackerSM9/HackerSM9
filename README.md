@@ -1,5 +1,3 @@
-Watch My First Year 🥳 of GitHub 🎉 https://da.gd/sm9gh1
-
 # Intro 🔥
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Splash&pause=600&color=72DDF7&width=305&lines=Hi+HackerSM9+Here+%F0%9F%91%8B%F0%9F%8F%BB+..!!)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=4BF7C5FF&width=255&height=30&lines=Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
@@ -18,7 +16,7 @@ Watch My First Year 🥳 of GitHub 🎉 https://da.gd/sm9gh1
 ## What I'm 😇
 - [x] 💞 Open Source
 - [x] 💰 Free of Cost
-- [x] 📲 Contactable
+- [x] 📲 Contactable - For Quick Contact → [Telegram](https://telegram.me/hackersm9)
 - [x] 🔐 Issue Solver
 - [x] 🔠 Loves all Languages
 - [x] 🛐 Loves all Castes
