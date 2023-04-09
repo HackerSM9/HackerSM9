@@ -10,7 +10,7 @@
 * 🎂 Birth Place: MH 09
 * 💼 Work Place: MH 04
 * 🛫 How to reach me: 400610 Thane, Maharashtra, India.
-* 📧 Email: sm9hacking@gmail.com
+* 📧 Email: hackersm9bot@gmail.com
 * 💲 Payment ID: HackerSM9.famc@idfcbank
 
 ## What I'm 😇
@@ -143,7 +143,7 @@ No Activity Tracked This Week
 <a href="https://instagram.com/HackerSM9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/samarth-magdum-bb66a1221"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/18754125/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-eb8e0c.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-<a href="mailto:sm9hacking@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:hackersm9bot@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Contribute Me 💰
 [![Pay With UPI](https://HackerSM9.github.io/SVG/upi.svg)](https://tinyurl.com/2gdqef3v)
