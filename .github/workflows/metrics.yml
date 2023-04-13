@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
-  push: {branch: ["Master"]}
+  push: {branch: ["master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
