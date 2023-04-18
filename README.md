@@ -63,17 +63,18 @@ Sunday                   198 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               ████████████████████░░░░░   79.52 % 
+Git                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/04/2023 00:54:15 UTC
+ Last Updated on 18/04/2023 00:51:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
