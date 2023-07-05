@@ -11,17 +11,8 @@
 * 💼 Work Place: MH 04
 * 🛫 How to reach me: 400610 Thane, Maharashtra, India.
 * 📧 Email: hackersm9bot@gmail.com
-* 💲 Payment ID: HackerSM9.famc@idfcbank
 
-## What I'm 😇
-- [x] 💞 Open Source
-- [x] 💰 Free of Cost
-- [x] 📲 Contactable - For Quick Contact → [Telegram](https://telegram.me/hackersm9)
-- [x] 🔐 Issue Solver
-- [x] 🔠 Loves all Languages
-- [x] 🛐 Loves all Castes
-
-<a href="https://GitHub.com/hackersM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a>
+<a href="https://GitHub.com/hackersM9/"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/HackerSM9?style=social"></a> <a href="https://github.com/HackerSM9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerSM9?style=social"></a></a>
 
 <h1> 👨🏻‍💻 Coding Stats </h1>
 
@@ -81,18 +72,9 @@ No Activity Tracked This Week
 <h3 align="center">GitHub Achievements 🏆</h3>
 <img alt="Starstruck" style="height:100px" src="https://HackerSM9.github.io/SVG/achievements/starstruck.svg">
 
-## 🎶 Actual Listening 🎶
-
-![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/kgf2.svg?sanitize=true)
-![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/nights.svg)
-![🎶 Always Listening 🎶](https://hackersm9.github.io/SVG/Songs/bones.svg)
-
 ## Currently Working On 👨‍🔧
 [![SM9-System-Detector](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/UPI&mode=dark&style=horizontal)](https://github.com/HackerSM9/UPI)
 [![HackerSM9's TTS](https://svg.bookmark.style/api?url=https://github.com/HackerSM9/text-to-speech&mode=dark&style=horizontal)](https://github.com/HackerSM9/text-to-speech)
-
-## Lastest Tweets 🐦
-[![Lastest Tweets](https://github-readme-twitter-gazf.vercel.app/api?id=HackerSM9_&amp;layout=wide)](https://twitter.com/HackerSM9_/)
 
 <h1 align="center">Visitors Count 👀</h1>
 
@@ -124,33 +106,6 @@ No Activity Tracked This Week
 ![Github-pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-## Supported OS 
-![iOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## Supported Brands
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
-![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
-![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
-
-## Social Media
-
-<a href="https://telegram.me/HackerSM9"><img alt="Twitter" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://twitter.com/HackerSM9_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://instagram.com/HackerSM9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/samarth-magdum-bb66a1221"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/18754125/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-eb8e0c.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-<a href="mailto:hackersm9bot@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-## Contribute Me 💰
-[![Pay With UPI](https://HackerSM9.github.io/SVG/upi.svg)](https://tinyurl.com/2gdqef3v)
-[![Contribute Me](https://hackersm9.github.io/SVG/donate.svg)](https://liberapay.com/HackerSM9/)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5FJC3M)
-[![BuyMeACoffee](https://HackerSM9.github.io/SVG/coffee.svg?sanitize=true)](https://t.co/av9GnEYPgn)
 
 ---
 <h6 align="center">Thanks those who are Following Me 🙏🏻❤️</h6>
