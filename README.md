@@ -25,7 +25,7 @@
 ![GitHub-Streaks](https://github-readme-streak-stats.herokuapp.com?user=HackerSM9&theme=violet-punch)
 ![GitHub-Activities](https://github-readme-activity-graph.cyclic.app/graph/?username=HackerSM9&bg_color=1F222E&color=21e60b&line=5008bd&point=FFFFFF&hide_border=true)
 
-## Usage 
+## GitHub Stats  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2045%20mins-blue)
 
