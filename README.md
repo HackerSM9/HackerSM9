@@ -67,8 +67,6 @@ VS Code                  2 hrs 34 mins       ███████████�
 Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
-
- Last Updated on 13/11/2023 01:18:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
