@@ -97,7 +97,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 ![Visitors Count](https://profile-counter.glitch.me/HackerSM9/count.svg)
 <br>
-![Profile's View](https://komarev.com/ghpvc/?username=HackerSM9&color=blueviolet)
+<!--![Profile's View](https://komarev.com/ghpvc/?username=HackerSM9&color=blueviolet)-->
 
 ## Supported Technologies ⚡
 
