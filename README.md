@@ -56,14 +56,13 @@ Sunday                   187 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   27 mins             ██████████████████░░░░░░░   71.64 % 
-Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +78,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2024 01:11:03 UTC
+ Last Updated on 26/10/2024 01:08:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
