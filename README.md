@@ -27,8 +27,6 @@
 
 ## GitHub Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -82,7 +80,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 01:07:26 UTC
+ Last Updated on 10/11/2024 01:13:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
