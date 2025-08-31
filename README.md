@@ -27,6 +27,8 @@
 
 ## GitHub Stats  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2011%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -76,7 +78,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 01:13:17 UTC
+ Last Updated on 31/08/2025 01:21:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
