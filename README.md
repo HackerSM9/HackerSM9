@@ -27,44 +27,6 @@
 
 ## GitHub Stats  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2011%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-🌆 Daytime                2270 commits        ████████████████░░░░░░░░░   62.60 % 
-🌃 Evening                1128 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Tuesday                  419 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Wednesday                413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Thursday                 694 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Friday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Saturday                 354 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Sunday                   733 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -78,7 +40,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 01:27:59 UTC
+ Last Updated on 03/01/2026 01:23:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
