@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @HackerSM9
 - 🗣️ Pronouns: Hacker S_M_9 = HackerSM9
 - 👀 I’m interested in Coding, Developing, & Hacking.
-- 🌱 I’m currently learning Python, SCSS, IT basics.
+- 🌱 I’m currently learning Everything with Vibe Coding
 * 🎂 Birth Place: MH 09
 * 💼 Work Place: MH 04
 * 🛫 How to reach me: 400610 Thane, Maharashtra, India.
