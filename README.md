@@ -56,16 +56,13 @@ Sunday                   806 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     40 mins             ███████████████████████░░   92.20 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -81,7 +78,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 02:00:06 UTC
+ Last Updated on 03/02/2026 01:59:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
