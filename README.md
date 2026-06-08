@@ -27,6 +27,8 @@
 
 ## GitHub Stats  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2030%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -76,7 +78,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 03:39:17 UTC
+ Last Updated on 08/06/2026 03:44:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stackoverflow.vercel.app/?userID=18754125&theme=dark) -->
